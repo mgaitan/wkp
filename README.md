@@ -6,7 +6,7 @@ Small helper CLI to download, translate, preview, and publish Wikipedia articles
 
 ## Environment
 
-Create a `.env` file with bot credentials. Bot passwords are the recommended way to authenticate
+Copy `.env.sample` to `.env` and fill your credentials. Bot passwords are the recommended way to authenticate
 from scripts.
 
 How to create a bot password:
@@ -18,8 +18,8 @@ How to create a bot password:
 
 ```bash
 WKP_USERNAME=Tin_nqn@wkp-cli
-WKP_PASSWORD=8c40b6omtruqmriivr89av4ihr9re48e
-WKP_USER_AGENT=wkp/0.1 (https://github.com/mgaitan/wkp; contact: gaitan@gmail.com)
+WKP_PASSWORD=bot-password-here
+WKP_USER_AGENT=wkp/0.1 (https://github.com/mgaitan/wkp; contact: you@example.com)
 ```
 
 Optional translation settings:
