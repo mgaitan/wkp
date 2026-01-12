@@ -1,0 +1,1 @@
+"""Wikipedia CLI package."""
